@@ -1,2 +1,0 @@
-# Babdacca
-A Minecraft Mod
